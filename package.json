@@ -1,0 +1,27 @@
+{
+  "name": "hangamap",
+  "version": "1.0.0",
+  "description": "A hangman game developed in electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuwokHowardii/hangamap.git"
+  },
+  "keywords": [
+    "hangman",
+    "electron"
+  ],
+  "author": "tuwokHowardii",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tuwokHowardii/hangamap/issues"
+  },
+  "homepage": "https://github.com/tuwokHowardii/hangamap#readme",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
