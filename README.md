@@ -4,4 +4,4 @@
 
 ## Introduction 
 
-Developing a Hangman game as a means to lean electron. Styling will be done using bootstrap.
+Developing a Hangman game as a means to learn electron. Styling will be done using bootstrap.
