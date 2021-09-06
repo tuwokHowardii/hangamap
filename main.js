@@ -8,6 +8,7 @@ function createWindow() {
      win = new BrowserWindow({
         width: 800,
         height: 600,
+        title: 'Hangamap',
         webPreferences: {
             nativeWindowOpen: true,
             preload: path.join( __dirname, '/src/js/preload.js')

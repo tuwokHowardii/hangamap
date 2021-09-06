@@ -23,5 +23,10 @@
   "homepage": "https://github.com/tuwokHowardii/hangamap#readme",
   "devDependencies": {
     "electron": "^14.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@popperjs/core": "^2.10.1",
+    "bootstrap": "^5.1.0"
   }
 }
