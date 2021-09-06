@@ -1,2 +1,3 @@
 # hangamap
-A hangman game to be developed using electron
+
+**A hangman game to be developed using electron**
